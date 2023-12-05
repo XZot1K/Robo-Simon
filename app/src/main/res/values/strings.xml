@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Robo-Simon</string>
+    <string name="author">Jeremiah Osborne</string>
+    <string name="creditsTitle">Credits:</string>
+    <string name="creditsContent">Music Credit — <a href="https://patrickdearteaga.com/">patrickdearteaga.com</a> (Creative Commons License)
+        \n\nAchieve Sound Effect by <a href="https://pixabay.com/users/liecio-3298866/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=132273">Liecio</a>
+        from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=132273">Pixabay</a>
+        \n\nPing Sound Effect from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=82822">Pixabay</a>
+        \n\nWrong Answer Sound Effect by <a href="https://pixabay.com/users/universfield-28281460/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=126515">Universfield</a>
+        from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=126515">Pixabay</a>
+        \n\nCode and Design by Jeremiah Osborne</string>
+    <string name="close">Close</string>
+    <string name="credits">Credits</string>
+    <string name="quitText">Quit</string>
+    <string name="footer">Game by Jeremiah Osborne</string>
+    <string name="play">Play</string>
+    <string name="repeat">Repeat The Shown Sequence:</string>
+    <string name="stats">Move {current} of {total}         Record: {record}</string>
+    <string name="playAgain">Play Again</string>
+    <string name="playAgainText">Would you like to keep playing?</string>
+    <string name="quitToMenuText">Quit To Menu</string>
+    <string name="instructionsTitle">How To Play:</string>
+    <string name="instContent">1) Wait for the sequence of colors to be revealed.
+        \n\n2) Once revealed, a text will appear prompting to repeat the colors in the order at which they were revealed.
+        \n\n3) Each completed sequence will add another color selection stacking indefinitely until an incorrect selection is made.
+        \n\n4) Have fun!</string>
+    <string name="showAgain">Don\'t Show Again (For This Instance)</string>
+    <string name="difficulty">Difficulty:</string>
+</resources>
