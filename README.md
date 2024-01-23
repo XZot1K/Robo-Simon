@@ -1,5 +1,5 @@
 # Robo-Simon
-A simplistic and sleak Android Application incorporating the principle of the famous game "Simon Says".
+A sleak Android app reinventing the iconic "Simon Says" experience
 
 # Application Demo
 ------
